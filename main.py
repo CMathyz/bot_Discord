@@ -77,4 +77,4 @@ async def command(ctx):
 
 
 if __name__ == "__main__":
-    bot.run("MTIzNDgzOTExNzIyOTk4NTg5Mw.GljUjo.2QWNAQk7KvKSUwN_pNbhTUbbCGVyrO_J6_ggCA")
+    bot.run("replace TOKEN")
